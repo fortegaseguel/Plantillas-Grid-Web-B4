@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+.banner {
+    background-color: green;
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+    border: solid white 2px;
+}
+
+.menulateral {
+    background-color: red;
+    padding: 20px;
+    border: solid white 2px;
+}
+
+.breadscrums {
+    background-color:orange;
+    padding: 20px;
+    text-align: center;
+    border: solid white 2px;
+}
+
+.noticiagrande1 {
+    background-color: red;
+    padding: 20px;
+    border: solid white 2px;
+}
+
+.noticiagrande2 {
+    background-color:yellow;
+    padding: 20px;
+    border: solid white 2px; 
+}
+
+.noticiapequena {
+    background-color: blue;
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    border: solid white 2px
+}
+
+.piepagina {
+    background-color: green;
+    color: aquamarine;
+    padding: 20px;
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+    border: solid white 2px
+}
